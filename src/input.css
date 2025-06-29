@@ -8,4 +8,8 @@
    /*color start */
     --color-pColor: #FD6E0A;
    /*color end */
+
+   /* font family start */
+   --font-openSans: "Open Sans", "sans-serif"; 
+   /* font family end */
 }
