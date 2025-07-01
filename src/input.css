@@ -4,15 +4,15 @@
     /* container start */
     --spacing-mContainer: 1140px;
     /* container end */
-  
-   /*color start */
-    --color-pColor: #FD6E0A;
-   /*color end */
 
-   /* font family start */
-   --font-openSans: "Open Sans", "sans-serif"; 
-   /* font family end */
-   /* box shadow start */
-   --shadow-boxShadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
-   /* box shadow end */
+    /*color start */
+    --color-pColor: #FD6E0A;
+    /*color end */
+
+    /* font family start */
+    --font-openSans: "Open Sans", "sans-serif";
+    /* font family end */
+    /* box shadow start */
+    --shadow-boxShadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    /* box shadow end */
 }
